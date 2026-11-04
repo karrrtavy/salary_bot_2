@@ -1,3 +1,5 @@
 salary.db
 .venv
 .env
+init_db.py
+schema_map.json
