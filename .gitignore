@@ -3,3 +3,9 @@ salary.db
 .env
 init_db.py
 schema_map.json
+pytest.ini
+.pytest_cache
+__pycache__
+*/__pycache__
+*/__init__.py
+docs
